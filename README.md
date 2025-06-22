@@ -45,7 +45,9 @@ display->brightness(75);
 
 ## Example
 
-The `main.cpp` file contains a simple example of most available functions. Note that this example is just a simplified summary and __will not compile on its own__. For instance, all initialization functions have been omited for simplicity. In order to have a fully functional example, create a project using [STM32CubeIDE](https://wiki.st.com/stm32mpu/wiki/How_to_get_started_with_STM32CubeIDE_from_scratch) or any other compatible toolchain.
+The `main.cpp` file contains a simple [example](https://github.com/mauriciokugler/serial-display/blob/main/display.mp4) of most available functions.
+
+Note that this example is just a simplified summary and __will not compile on its own__. For instance, all initialization functions have been omited for simplicity. In order to have a fully functional example, create a project using [STM32CubeIDE](https://wiki.st.com/stm32mpu/wiki/How_to_get_started_with_STM32CubeIDE_from_scratch) or any other compatible toolchain.
 
 ```C++
 #include "main.h"
@@ -108,8 +110,6 @@ int main(void)
 	}
 }
 ```
-
-[![Demonstration]](https://github.com/mauriciokugler/serial-display/blob/main/display.mp4)
 
 ## Citing
 
