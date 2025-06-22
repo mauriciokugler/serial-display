@@ -108,6 +108,9 @@ int main(void)
 	}
 }
 ```
+
+[![Demonstration]](https://github.com/mauriciokugler/serial-display/blob/main/display.mp4)
+
 ## Citing
 
 ```TeX
